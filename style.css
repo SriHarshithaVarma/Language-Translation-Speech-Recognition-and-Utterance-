@@ -1,0 +1,93 @@
+html {
+    font-family: "Montserrat";
+    font-size: 20px;
+}
+
+#heading {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: #ffffff;
+}
+
+.button1 {
+    text-align: center;
+    color: #ffffff;
+    background-color: rgb(42, 87, 141);
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    border: 1px solid transparent;
+    border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+    cursor: pointer;
+}
+
+.button2 {
+    text-align: start;
+    color: #ffffff;
+    background-color: rgb(42, 87, 141);
+    display: flex;
+    padding: 10px 10px;
+    border: 1px solid transparent;
+    border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+    cursor: pointer;
+}
+
+.button3 {
+    text-align: start;
+    color: #ffffff;
+    background-color: rgb(42, 87, 141);
+    display: flex;
+    padding: 10px 30px;
+    border: 1px solid transparent;
+    border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+    cursor: pointer;
+}
+
+.speak_translate {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.speak_cls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 25%;
+}
+
+.translate_cls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25%;
+}
+
+.listen {
+    margin: 5%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content_para {
+    background-color: white;
+    display: flex;
+    padding: 20px 10px;
+    border: 1px solid transparent;
+    border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+    margin: 7%;
+    height: 100%;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
