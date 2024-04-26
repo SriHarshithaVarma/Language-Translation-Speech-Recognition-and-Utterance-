@@ -6,7 +6,7 @@ This web application provides the following features:
 - Translation: The transcribed speech can be translated into different languages using the MyMemory Translation API.
 - Text-to-speech: The translated text can be converted back into speech and played through the browser.
 
-## Usage
+**Usage**
 
 1. **Speak**: Click the "Speak" button to start speech recognition. Speak into the microphone, and the transcribed speech will appear in the "User Speech Content" section. This section is provided for accessibility purposes, ensuring compliance with WCAG standards and enabling users who may have difficulty hearing to access the transcribed speech.
 
@@ -14,6 +14,6 @@ This web application provides the following features:
 
 3. **Listen**: Click the "Listen" button to hear the translated text spoken aloud. This feature enhances accessibility by enabling users with visual impairments to listen to the translated content, ensuring a comprehensive and inclusive user experience.
 
-## Run
+**Run**
  Simply clone the repository and open the `index.html` file in a web browser to start using the application.
 
